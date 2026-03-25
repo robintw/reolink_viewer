@@ -8,7 +8,7 @@
 # ]
 # ///
 """
-Reolink Baichuan Protocol Viewer
+Reolink Baichuan Protocol Video Stream Viewer
 Connects to camera on TCP port 9000 using the same native protocol as the mobile app.
 
 Usage:
